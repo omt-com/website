@@ -1,0 +1,16 @@
+[24/Jul/2019:08:43:17] (ℹ️): WordPress Instance Info:
+[24/Jul/2019:08:43:17] (ℹ️): Home URL : http://localhost/wordpress
+[24/Jul/2019:08:43:17] (ℹ️): Site URL : http://localhost/wordpress
+[24/Jul/2019:08:43:17] (ℹ️): WordPress Version : 5.2.2
+[24/Jul/2019:08:43:17] (ℹ️): Onboarding Version : 1.6.1
+[24/Jul/2019:08:43:17] (ℹ️): Multisite : No
+[24/Jul/2019:08:43:17] (ℹ️): Server Info : Apache/2.4.39 (Win64) OpenSSL/1.1.1b PHP/7.2.17
+[24/Jul/2019:08:43:17] (ℹ️): PHP Version : 7.2.17
+[24/Jul/2019:08:43:17] (ℹ️): HTTPS : No
+[24/Jul/2019:08:43:17] (ℹ️): PHP Max Execution Time : 30
+[24/Jul/2019:08:43:17] (ℹ️): PHP Max Input Vars : 1000
+[24/Jul/2019:08:43:17] (ℹ️): Max Upload Size : 2097152
+[24/Jul/2019:08:43:17] (ℹ️): Plugins:
+[24/Jul/2019:08:43:17] (ℹ️): [PLUGIN] Elementor : v2.6.6 (Elementor.com)
+[24/Jul/2019:08:43:17] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.2.3 (ThemeIsle)
+[24/Jul/2019:08:43:17] (ℹ️): [PLUGIN] Smart Slider 3 : v3.3.21 (Nextend)
